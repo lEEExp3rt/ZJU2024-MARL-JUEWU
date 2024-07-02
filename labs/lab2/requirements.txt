@@ -1,0 +1,3 @@
+matplotlib
+tqdm
+gym=0.26.0
