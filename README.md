@@ -30,3 +30,7 @@ webpage:
 ### Lab 3
 
 安装PyTorch环境与RNN分类任务
+
+### Lab 4
+
+完成DQN算法补全，并完成DDQN
