@@ -1,0 +1,5 @@
+gym==0.24.0
+gym_super_mario_bros
+nes-py
+opencv-python
+tensorboardX
