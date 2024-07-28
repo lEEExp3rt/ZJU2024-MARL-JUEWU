@@ -38,3 +38,11 @@ webpage:
 ### Lab 5
 
 完成Mario补全
+
+### Lab 6
+
+跑王者荣耀1v1模型训练，详见[腾讯开悟教学平台](https://aiarena.tencent.com/p/edu-exp/209/course-content)
+
+### Lab 7
+
+跑[smac](https://github.com/oxwhirl/smac)和[pymarl](https://github.com/oxwhirl/pymarl)的模型并画图
